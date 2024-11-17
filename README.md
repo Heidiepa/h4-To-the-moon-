@@ -19,9 +19,11 @@ Got into login site and after seeing these keywords,  I immediately removed the 
 ![image](https://github.com/user-attachments/assets/0b82d73d-7e73-41b8-bbce-71b404648421)
 
 Tried installing Bitbay wallet according to instructions.
+
 ![image](https://github.com/user-attachments/assets/0357d892-3c8f-4a71-8ad3-a4a3c79afd83)
 
 I also tried to create Coinbase wallet but I don't want to give out my personal information for a tool that I have ethical issues with. I will not continue this task forward.
+
 ![image](https://github.com/user-attachments/assets/6a2d4b2e-0f3f-4f92-a734-f39fa91e9bde)
 
 
