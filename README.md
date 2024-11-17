@@ -50,20 +50,22 @@ I'm not familiar of this Roger person but based on the comments on Youtube, this
 
  I think after this statement nothing else is as important  but we can state few other arguments:
 
-* **Bitcoin is a collective hallucination for earning money**
-While Bitcoin as a technology is interesting and can have interesting applications and benefits to security development, the way how Bitcoin is right now, it is more like a multi-level marketin scheme. People invest in Bitcoin because they don't understand it but are sold the "truth" of it being valuable option. 
-  
 * **Bitcoin is vulnerable to human error**
   In the video, it is addresses that there is a possibility for a person to get weatlhy by mining Bitcoin but that many failures related to Bitcoin are due to human error such as losing your Bitcoin wallet's password, storing your Bitmoney in third party provider solutions that are vulnerable to can lead to hackers hacking your Bitmoney out and you also have limited control over your bitmoney and can lose your Bitmoney access due to platform policies.
 
 (Medium)
 
 * **Bitcoin cannot be used in real-life needs**
-* Heroin and feet pics
+* The video addresses that Bitcoin can be only used to buy heroin and feet pics but it seem to be a lie as you can buy a Tesla with you Bitcoin as well as Rolex watches. (Rakesh,S)) through thrid party platforms, it is also possible to buy your daily pumpkin spice latte from Starbuck witth Bitmoney. These policies at least apply to USA.
 
+In EU, bitmoney is not as accepted as it is in USA. The European Union recognizes Bitcoin and they are not illegal to use but real-life options to use Bitmoney are more limited than in the USA.  (Bajpai, P)
 
+ Worldwide, there are countires where Bitmoney is illegas, such as China, Tunisia or Bolivia. These countries ban Bitmoeny due to its volatility and decentralized nature. Bitmoney can be perceived as a threat to the countries monetary system and can also be a threat in a form of drug trafficking. (Bajpai, P)
 
+**Final note**
 I do have to say that kittens sneezing is adorable BUT how this person presented kitten sneezing is an utter lie because that was not a sneeze, that was a meow. But it was a cute meow anyhow.
+
+Here is a video about how to treat kitten sneewixng in case your kitten feels congested or is allergic: https://www.youtube.com/watch?v=CYitqyxM5QE 
 
 # References
 
@@ -72,3 +74,9 @@ https://unu.edu/press-release/un-study-reveals-hidden-environmental-impacts-bitc
 
 Medium.com 5 Mistakes that are Compromising Your Crypto Wallet Security
 https://medium.com/airgap-it/5-mistakes-that-are-compromising-your-crypto-wallet-security-92a1410f6e46
+
+Rakesh, S. 25 May 2024.  What Can You Buy With Bitcoin?
+https://www.investopedia.com/what-can-you-buy-with-bitcoin-5179592 
+
+Bajpai, P. 30 June 2024. Countries Where Bitcoin Is Legal and Illegal
+https://www.investopedia.com/articles/forex/041515/countries-where-bitcoin-legal-illegal.asp
