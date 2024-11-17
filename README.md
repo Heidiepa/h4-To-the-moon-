@@ -65,7 +65,7 @@ In EU, bitmoney is not as accepted as it is in USA. The European Union recognize
 **Final note**
 I do have to say that kittens sneezing is adorable BUT how this person presented kitten sneezing is an utter lie because that was not a sneeze, that was a meow. But it was a cute meow anyhow.
 
-Here is a video about how to treat kitten sneewixng in case your kitten feels congested or is allergic: https://www.youtube.com/watch?v=CYitqyxM5QE 
+Here is a video about how to treat kitten sneezixng in case your kitten feels congested or is allergic: https://www.youtube.com/watch?v=CYitqyxM5QE 
 
 # References
 
